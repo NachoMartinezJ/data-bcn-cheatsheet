@@ -27,8 +27,8 @@
 - [X] [Refactoring](https://github.com/ta-data-bcn/lab-refactoring)
 - [X] [Understanding other's code](https://github.com/ta-data-bcn/lab-understanding-others-code)
 - [ ] [API Scavenger Game](https://github.com/ta-data-bcn/lab-api-scavenger-game)
-- [ ] [Good practices](https://github.com/ta-data-bcn/lab-good-practices)
-- [ ] [Parallelization](https://github.com/ta-data-bcn/lab-parallelization)
+- [X] [Good practices](https://github.com/ta-data-bcn/lab-good-practices)
+- [X] [Parallelization](https://github.com/ta-data-bcn/lab-parallelization)
 - [ ] [Web Scraping](https://github.com/ta-data-bcn/lab-web-scraping)
 
 ## Week 4
